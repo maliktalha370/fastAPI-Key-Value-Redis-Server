@@ -83,4 +83,3 @@ This project hosts the key/value server in Redis using FastAPI. It contains a si
 ### Author
 M Talha Zubair
 ---
-"# fastAPI-Key-Value-Redis-Server" 
